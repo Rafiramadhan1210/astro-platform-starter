@@ -1,0 +1,55 @@
+body {
+    font-family: 'Segoe UI', sans-serif;
+    background-color: #f9f9f9;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+header {
+    background-color: #222;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+section {
+    margin: 40px auto;
+    width: 80%;
+    line-height: 1.6;
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background: #222;
+    color: white;
+}
+a {
+    color: #007bff;
+    text direction: none;
+}
+a:hover {
+
+    text-decoration: underline;
+}
+nav {
+    background-color: #333;
+    padding: 10px 0;
+}
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 0 15px;
+    font font-weight: bold;
+}
+#kontak {
+    background-color: #f0f0f0;
+    padding: 30px;
+    margin top: 40px;
+    border-radius: 8px;
+}
+#kontak h2 {
+    color: #333;
+}
+#kontak a {
+    color: #007bff;
+}
